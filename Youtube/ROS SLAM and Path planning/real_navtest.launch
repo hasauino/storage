@@ -55,11 +55,11 @@
     <remap from="cmd_vel" to="/cmd_vel_mux/navigate"/>
     <param name="recovery_behavior_enabled" value="false" />
     
-    <rosparam file="$(find <YOUR_PACKAGE_NAME>)/param/costmap_common_params.yaml" command="load" ns="global_costmap" />
-    <rosparam file="$(find <YOUR_PACKAGE_NAME>)/param/costmap_common_params.yaml" command="load" ns="local_costmap" />
-    <rosparam file="$(find <YOUR_PACKAGE_NAME>)/param/local_costmap_params.yaml" command="load" />
-    <rosparam file="$(find <YOUR_PACKAGE_NAME>)/param/global_costmap_params.yaml" command="load" />
-    <rosparam file="$(find <YOUR_PACKAGE_NAME>)/param/base_local_planner_params.yaml" command="load" />  
+    <rosparam file="$(find YOUR_PACKAGE_NAME)/param/costmap_common_params.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find YOUR_PACKAGE_NAME)/param/costmap_common_params.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find YOUR_PACKAGE_NAME)/param/local_costmap_params.yaml" command="load" />
+    <rosparam file="$(find YOUR_PACKAGE_NAME)/param/global_costmap_params.yaml" command="load" />
+    <rosparam file="$(find YOUR_PACKAGE_NAME)/param/base_local_planner_params.yaml" command="load" />  
 
    
     <param name="global_costmap/global_frame" value="/map"/>
