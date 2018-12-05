@@ -22,7 +22,7 @@ git push origin master
 git clone [url]
 ```
 
-- Pull changes from a brnach
+- Pull changes from a branch
 ```bash
 git pull origin [branch]
 ```
