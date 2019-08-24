@@ -9,9 +9,13 @@ Zur zeit befinde ich mich im zweiten Semester meines Masterstudium im Fachbereic
 
 # My Skills
 
- Prototypen mit 3D-Druck
- elektronische Schaltungen
- Leiterplatten entworfen
+ - Prototypen mit 3D-Druck
+ 
+ 
+ - elektronische Schaltungen
+ 
+ 
+ - Leiterplatten entworfen
 # My Projects:
 
 ## 1- Handhilfegerät:
