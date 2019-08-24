@@ -7,6 +7,10 @@ Education : Ausbildung
 
 Zur zeit befinde ich mich im zweiten Semester meines Masterstudium im Fachbereich Autonome Systeme an der Hochschule Bonn-Rhein-Sieg. Ich habe bereits M.Sc. in Mechatronik und B.Sc. im Maschinenbau mit Schwerpunkt Mechatronik erfolgreich abgeschlossen.
 
+
+	Mechatronikwissenschaften
+	
+	
 # My Skills
 
  - Prototypen mit 3D-Druck
@@ -29,3 +33,13 @@ Ein 3D-Scanner wurde verwendet, um die Basis des Geräts an die Armform des Trä
 Ich habe einen kartesischen 3D-Drucker mit den Abmessungen 174x155x100 cm3 entworfen und zusammengebaut.
 Es wurde mit einer Open-Source-Firmware (Marlin 3D-Drucker-Firmware) integriert.
 Der Zweck war, eine Plattform zu schaffen, auf der verschiedene Düsen und Materialien für den Beton 3D-druck getestet werden können.
+
+
+# Berufserfahrungen
+
+- SPS Programmierer
+
+- Wissenschaftlicher mitarbeiter
+
+
+
