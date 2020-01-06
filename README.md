@@ -57,3 +57,13 @@ git reset --soft HEAD~
 git reset --hard HEAD~
 ```
 - HEAD~ means parent of HEAD. HEAD points to current branch. If you have staged files in the staging area, HEAD doesnt have them. The staging area is the future state of the HEAD.
+
+- Instead of HEAD~, you can write the ID of the commit you want to go back to. Example
+```
+git reset --hard 311b0105b63e09d575934679aa17a17c09fff9af
+```
+
+- To show history of commits on a branch:
+```
+git log
+```
