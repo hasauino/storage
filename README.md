@@ -44,3 +44,16 @@ git commit --amend -m "message"
 git commit --amend --no-edit
 ```
 
+
+### Undo
+
+- Make HEAD point to previous commit, staging area will have the changes you did in last commit as staged files:
+```
+git reset --soft HEAD~
+```
+
+- Make HEAD point to previous commit, make staging area = HEAD, make directory = staging area :
+```
+git reset --hard HEAD~
+```
+- HEAD~ means parent of HEAD. HEAD points to current branch. If you have staged files in the staging area, HEAD doesnt have them. The staging area is the future state of the HEAD.
