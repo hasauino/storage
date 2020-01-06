@@ -38,3 +38,9 @@ git status
 git checkout [branch] 
 ```
 
+- Amendding: To edit your last commit. This way you can add more files to the stage area, or edit stagged files, or edit commit message.
+```
+git commit --amend -m "message"
+git commit --amend --no-edit
+```
+
